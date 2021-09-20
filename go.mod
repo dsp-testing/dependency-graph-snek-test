@@ -1,4 +1,4 @@
-module github.com/elireisman/monorepo
+module github.com/dsp-testing/dependency-graph-snek-test
 
 go 1.17
 
